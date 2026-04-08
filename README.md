@@ -1,6 +1,8 @@
-# നമസ്കാരം ! (Malayalam: Welcome !)
+# നമസ്കാരം ! (Welcome !)
  
 I'm interested in systems that maximise the value of human intent. My PhD research involves non-convex optimisation in the optics design space; my side-projects grow from personal frustrations where that same principle shows up at a smaller, scrappier scale.
+ 
+I try to build up on an idea as soon as it hits me. Lynch puts it better than I can:
  
 > "I've forgotten probably two or three major ideas, and it'll make you sick, just horrible. Write the idea down. You'll say: I'll never forget this idea. Ah-uh: you can forget them." - David Lynch
  
