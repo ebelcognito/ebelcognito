@@ -1,10 +1,9 @@
-## നമസ്കാരം ! (Malayalam: Welcome !)
-
-This is the space where I share my gradual nook of research interests. I try to build upon an idea as soon as I possibly can!
-
-" I've forgotten probably two or three major ideas, and it'll make you sick, just horrible. Write the idea down. You'll say: I'll never forget this idea. Ah-uh: you can forget them." - David Lynch
-
-I'm interested in projects that maximise the value of human intent. My PhD research primarily involves non-convex optimisation in the optics design space, Here I explore side-projects that evolve from my own personal frustrations!
+# നമസ്കാരം ! (Malayalam: Welcome !)
+ 
+I'm interested in systems that maximise the value of human intent. My PhD research involves non-convex optimisation in the optics design space; my side-projects grow from personal frustrations where that same principle shows up at a smaller, scrappier scale.
+ 
+> "I've forgotten probably two or three major ideas, and it'll make you sick, just horrible. Write the idea down. You'll say: I'll never forget this idea. Ah-uh: you can forget them." - David Lynch
+ 
 <!--
 **ebelcognito/ebelcognito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
