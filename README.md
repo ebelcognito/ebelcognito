@@ -1,6 +1,6 @@
 # നമസ്കാരം ! (Hello !)
  
-I'm interested in systems that maximise the value of human intent. My PhD research involves non-convex optimisation in optical design.
+Mostly physics
  
 
 <!--
