@@ -1,5 +1,6 @@
 # നമസ്കാരം ! (Hello !)
-I work on reward-hacking light
+For my PhD work I work on reward-hacking light
+I don't really know what I do here
 
  
 
